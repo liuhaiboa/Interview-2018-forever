@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7730622-7eb7-4fbf-ae7c-b010daea53f4" name="Default" comment="链表">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/cbc8ab20276e2f9312030c313a9ef70b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/d5d5bee4be28326ba3c28373808a62cd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pic/HashMap工作原理.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pic/mysql.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pic/springmvc处理流程.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pic/乐观锁与悲观锁.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pic/多线程.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pic/数据结构.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pic/计网.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Interview-2018-forever.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="e7730622-7eb7-4fbf-ae7c-b010daea53f4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/DataStructure.md" afterPath="$PROJECT_DIR$/docs/DataStructure.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="124">
-                <caret line="48" column="14" lean-forward="false" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+              <first_editor relative-caret-position="94">
+                <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -626,7 +613,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545813169690</updated>
-      <workItem from="1545813171579" duration="15688000" />
+      <workItem from="1545813171579" duration="16112000" />
     </task>
     <task id="LOCAL-00001" summary="算法：时间空间复杂度">
       <created>1545822958255</created>
@@ -691,11 +678,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545834758569</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="链表">
+      <created>1545835298381</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1545835298381</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15688000" />
+    <option name="totallyTimeSpent" value="16112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -740,9 +734,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="算法：时间空间复杂度" />
     <MESSAGE value="链表完结" />
-    <MESSAGE value="链表" />
     <MESSAGE value="修改markdown格式" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改markdown格式" />
+    <MESSAGE value="链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="链表" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -806,8 +800,8 @@
     <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="124">
-            <caret line="48" column="14" lean-forward="false" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+          <first_editor relative-caret-position="94">
+            <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
