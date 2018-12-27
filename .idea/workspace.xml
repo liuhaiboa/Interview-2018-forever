@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7730622-7eb7-4fbf-ae7c-b010daea53f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/data/链表.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/DataStructure.md" afterPath="$PROJECT_DIR$/docs/DataStructure.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/data/链表.md" afterPath="$PROJECT_DIR$/docs/data/链表.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataStructure.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DataStructure.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -42,12 +41,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="链表.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="链表.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/data/链表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -120,6 +119,7 @@
         <option value="$PROJECT_DIR$/DataStructure.md" />
         <option value="$PROJECT_DIR$/docs/data/Node/node.md" />
         <option value="$PROJECT_DIR$/docs/DataStructure.md" />
+        <option value="$PROJECT_DIR$/docs/data/链表.md" />
       </list>
     </option>
   </component>
@@ -628,7 +628,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545813169690</updated>
-      <workItem from="1545813171579" duration="19249000" />
+      <workItem from="1545813171579" duration="19363000" />
     </task>
     <task id="LOCAL-00001" summary="算法：时间空间复杂度">
       <created>1545822958255</created>
@@ -707,11 +707,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545835725187</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="增加链表跳转到链表.md的代码">
+      <created>1545878907957</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1545878907957</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19249000" />
+    <option name="totallyTimeSpent" value="19363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -759,7 +766,8 @@
     <MESSAGE value="修改markdown格式" />
     <MESSAGE value="链表" />
     <MESSAGE value="修改markDown样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改markDown样式" />
+    <MESSAGE value="增加链表跳转到链表.md的代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加链表跳转到链表.md的代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -831,22 +839,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/data/链表.md">
+    <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="251">
+            <caret line="127" column="1" lean-forward="true" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
+    <entry file="file://$PROJECT_DIR$/docs/data/链表.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="251">
-            <caret line="127" column="1" lean-forward="true" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
