@@ -122,7 +122,7 @@
                  public Node(int data){this.data=data;}
 }
 ````
-1 [单链表的增删操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/链表.md)
+1 [单链表的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/链表.md)
 
  
  
