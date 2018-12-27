@@ -72,7 +72,58 @@
 4. 技巧四：重点留意边界条件处理 
 比如： 链表是否为空， 只包含一个，两个节点，处理的头结点，尾节点 。 
 5. 多画图，多看题
-练习题LeetCode对应编号：206，141，21，19，876  
-                                
+练习题LeetCode对应编号：206，141，21，19，876                                 
+#### 第四章：栈：如何实现浏览器的前进和后退功能？
+后进者先出，先进者后出，这就是典型的“栈”结构。栈是一种“操作受限”的线性表，只允许在一端插入和删除数据。  
+栈既可以用数组来实现，也可以用链表来实现。用数组实现的栈，我们叫作顺序栈，用链表实现的栈，我们叫作链式栈。
+ ````
+     // 基于数组实现的顺序栈
+     public class ArrayStack {
+       private String[] items;  // 数组
+       private int count;       // 栈中元素个数
+       private int n;           // 栈的大小     
+       // 初始化数组，申请一个大小为 n 的数组空间
+       public ArrayStack(int n) {
+         this.items = new String[n];
+         this.n = n;
+         this.count = 0;
+       }
+       // 入栈操作
+       public boolean push(String item) {
+         // 数组空间不够了，直接返回 false，入栈失败。
+         if (count == n) return false;
+         // 将 item 放到下标为 count 的位置，并且 count 加一
+         items[count] = item;
+         ++count;
+         return true;
+       } 
+       // 出栈操作
+       public String pop() {
+         // 栈为空，则直接返回 null
+         if (count == 0) return null;
+         // 返回下标为 count-1 的数组元素，并且栈中元素个数 count 减一
+         String tmp = items[count-1];
+         --count;
+         return tmp;
+       }
+     }
+````                             
+                            
 
-##第二部分：面试宝典算法题
+
+
+
+## 第二部分：面试宝典算法题
+### 第一部分 链表
+````
+链表结构:class Node{
+                 Node next =null;
+                 int data;
+                 public Node(int data){this.data=data;}
+}
+````
+1 [单链表的增删操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/链表.md)
+
+ 
+ 
+
