@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e7730622-7eb7-4fbf-ae7c-b010daea53f4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/DataStructure.md" afterPath="$PROJECT_DIR$/docs/DataStructure.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/data/链表.md" afterPath="$PROJECT_DIR$/docs/data/链表.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,12 +15,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DataStructure.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DataStructure.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1266">
-                <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -30,12 +28,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="链表.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="链表.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/data/链表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -122,8 +120,8 @@
         <option value="$PROJECT_DIR$/docs/data/Node/node.md" />
         <option value="$PROJECT_DIR$/docs/data/com/node.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/docs/DataStructure.md" />
         <option value="$PROJECT_DIR$/docs/data/链表.md" />
+        <option value="$PROJECT_DIR$/docs/DataStructure.md" />
       </list>
     </option>
   </component>
@@ -189,6 +187,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interview-2018-forever" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interview-2018-forever" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -617,7 +633,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545813169690</updated>
-      <workItem from="1545813171579" duration="38227000" />
+      <workItem from="1545813171579" duration="38451000" />
     </task>
     <task id="LOCAL-00001" summary="算法：时间空间复杂度">
       <created>1545822958255</created>
@@ -731,11 +747,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545898886157</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="添加链表相关操作的代码">
+      <created>1545979984384</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1545979984384</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38227000" />
+    <option name="totallyTimeSpent" value="38451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -786,7 +809,8 @@
     <MESSAGE value="增加链表跳转到链表.md的代码" />
     <MESSAGE value="增加链表对链表的增删操作代码" />
     <MESSAGE value="修改markdown的目录" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改markdown的目录" />
+    <MESSAGE value="添加链表相关操作的代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加链表相关操作的代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -866,22 +890,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
+    <entry file="file://$PROJECT_DIR$/docs/data/链表.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1266">
-            <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/data/链表.md">
+    <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />
