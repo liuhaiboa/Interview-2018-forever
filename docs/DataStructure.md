@@ -160,13 +160,13 @@ long findRootReferrerId(long actorId) {
   <div align="center"> <img src="pic/sort.jpg" width=""/> </div><br>
                                      
 1 [排序算法](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/排序.md)
-                                    
-                                    
+                                                                      
  <div align="center"> <img src="pic/allsort.jpg" width=""/> </div><br>                                   
+排序算法优化：  
                                     
-                                    
-
-
+ 1. 如何优化快速排序？
+ 2.    
+   
 
 # 二、面试宝典算法题
 ### 第一部分 链表
