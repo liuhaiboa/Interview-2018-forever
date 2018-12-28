@@ -10,8 +10,10 @@
 摘要：     极客时间版权所有: https://time.geekbang.org/column/article/40036
 10个数据结构：数组、链表、栈、队列、散列表、二叉树、堆、、跳表、图、Trie 树；
 10个算法：递归、排序、二分查找、搜索、哈希算法、贪心算法、分治算法、回溯算法、动态规划、字符串匹配算法。
-     [数据结构图](https://time.geekbang.org/column/article/40011)    
+     [数据结构图](https://time.geekbang.org/column/article/40011)  
+       
 ## 时间、空间复杂度分析
+
 ##### 1.1  大 O 复杂度表示法
 ###### 1.1.1 时间复杂度
 所有代码的执行时间 T(n) 与每行代码的执行次数成正比。T(n)=O(f(n))
