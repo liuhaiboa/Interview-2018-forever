@@ -157,10 +157,12 @@ long findRootReferrerId(long actorId) {
 
 ````                 
  #### 第七章：排序                                             
-  <div align="center"> <img src="pic/sort.jpg" width=""/> </div><br>                                   
+  <div align="center"> <img src="pic/sort.jpg" width=""/> </div><br>
+                                     
+1 [排序算法](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/排序.md)
                                     
                                     
-                                    
+ <div align="center"> <img src="pic/allsort.jpg" width=""/> </div><br>                                   
                                     
                                     
 
