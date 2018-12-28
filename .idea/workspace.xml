@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -672,7 +672,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545813169690</updated>
-      <workItem from="1545813171579" duration="50030000" />
+      <workItem from="1545813171579" duration="50148000" />
     </task>
     <task id="LOCAL-00001" summary="算法：时间空间复杂度">
       <created>1545822958255</created>
@@ -821,11 +821,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545991959613</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="添加子目录">
+      <created>1545992268408</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1545992268408</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50030000" />
+    <option name="totallyTimeSpent" value="50148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -880,7 +887,8 @@
     <MESSAGE value="添加递归和队列思想" />
     <MESSAGE value="添加排序思想" />
     <MESSAGE value="添加排序思想修改图片路径" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加排序思想修改图片路径" />
+    <MESSAGE value="添加子目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加子目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1000,8 +1008,8 @@
     <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
