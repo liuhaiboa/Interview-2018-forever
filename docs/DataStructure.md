@@ -187,15 +187,101 @@ long findRootReferrerId(long actorId) {
    从哈希值不能反向推导出原始数据（所以哈希算法也叫单向哈希算法...  
    对输入数据非常敏感，哪怕原始数据只修改了一个 Bit，最后得到的哈希值也大不相同；  
    散列冲突的概率要很小，对于不同的原始数据，哈希值相同的概率非常小。  
-   哈希算法的执行效率要尽量高效，针对较长的文本，也能快速地计算出哈希值。
+   哈希算法的执行效率要尽量高效，针对较长的文本，也能快速地计算出哈希值。  
    哈希算法应用：
-    - 第一个应用是唯一标识，哈希算法可以对大数据做信息摘要，通过一个较短的二进制编码来表示很大的数据。
-    - 第二个应用是用于校验数据的完整性和正确性。
-    - 第三个应用是安全加密，我们讲到任何哈希算法都会出现散列冲突，但是这个冲突概率非常小。越是复杂哈希算法越难破解，但同样计算时间也就越长。所以，选择哈希算法的时候，要权衡安全性和计算时间来决定用哪种哈希算法。
-    - 第四个应用是散列函数，这个我们前面讲散列表的时候已经详细地讲过，它对哈希算法的要求非常特别，更加看重的是散列的平均性和哈希算法的执行效率。                             
+- 第一个应用是唯一标识，哈希算法可以对大数据做信息摘要，通过一个较短的二进制编码来表示很大的数据。
+- 第二个应用是用于校验数据的完整性和正确性。
+- 第三个应用是安全加密，我们讲到任何哈希算法都会出现散列冲突，但是这个冲突概率非常小。越是复杂哈希算法越难破解，但同样计算时间也就越长。所以，选择哈希算法的时候，要权衡安全性和计算时间来决定用哪种哈希算法。
+- 第四个应用是散列函数，这个我们前面讲散列表的时候已经详细地讲过，它对哈希算法的要求非常特别，更加看重的是散列的平均性和哈希算法的执行效率。                             
                                 
- #### 第十二章：二叉树  
+ #### 第十二章：二叉树 
+ 树（Tree），基本概念就不写了，什么子节点，父节点，高度。。  
+ 
+ 每个节点最多有两个“叉”，也就是两个子节点，分别是左子节点和右子节点。  
+ 完全二叉树：叶子节点都在最底下两层，最后一层的叶子节点都靠左排列，并且除了最后一层，其他层的节点个数都要达到最大。  
+ 1. 二叉树（Binary Tree）的存储  
+ 想要存储一棵二叉树，我们有两种方法，我们有两种方法，一种是基于指针或者引用的二叉链式存储法，一种是基于数组的顺序存储法。  
+ 
+ 链式存储法：每个节点有三个字段，其中一个存储数据，另外两个是指向左右子节点的指针。我们只要拎住根节点，就可以通过左右子节点的指针，把整棵树都串起来。
+    <div align="center"> <img src="pic/IMG_20181228_190201.jpg" width=""/> </div><br> 
+                                           
+  2. 二叉树的遍历  
+  典的方法有三种，前序遍历、中序遍历和后序遍历。二叉树遍历的时间复杂度是 O(n)。
+                       
+   <div align="center"> <img src="pic/treeIt.jpg" width=""/> </div><br> 
+  
+  
+    
+    前序遍历的递推公式：
+    preOrder(r) = print r->preOrder(r->left)->preOrder(r->right)
+    
+    中序遍历的递推公式：
+    inOrder(r) = inOrder(r->left)->print r->inOrder(r->right)
+    
+    后序遍历的递推公式：
+    postOrder(r) = postOrder(r->left)->postOrder(r->right)->print r
+````$xslt
+void preOrder(Node* root) {
+  if (root == null) return;
+  print root // 此处为伪代码，表示打印 root 节点
+  preOrder(root->left);
+  preOrder(root->right);
+}
 
+void inOrder(Node* root) {
+  if (root == null) return;
+  inOrder(root->left);
+  print root // 此处为伪代码，表示打印 root 节点
+  inOrder(root->right);
+}
+
+void postOrder(Node* root) {
+  if (root == null) return;
+  postOrder(root->left);
+  postOrder(root->right);
+  print root // 此处为伪代码，表示打印 root 节点
+}
+
+````
+3. 二叉查找树是二叉树中最常用的一种类型，也叫二叉搜索树.  
+   在树中的任意一个节点，其左子树中的每个节点的值，都要小于这个节点的值，而右子树节点的值都大于这个节点的值。
+   二叉查找树的查找操作
+  ````$xslt
+public class BinarySearchTree {
+  private Node tree;
+
+  public Node find(int data) {
+    Node p = tree;
+    while (p != null) {
+      if (data < p.data) p = p.left;
+      else if (data > p.data) p = p.right;
+      else return p;
+    }
+    return null;
+  }
+
+  public static class Node {
+    private int data;
+    private Node left;
+    private Node right;
+
+    public Node(int data) {
+      this.data = data;
+    }
+  }
+}
+
+````
+           
+                                                         
+                                                         
+                                                         
+                                                         
+                                                         
+                                                         
+                                                         
+                                                         
+                                                         
 # 二、面试宝典算法题
 ### 第一部分 链表
 ````
