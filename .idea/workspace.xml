@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7730622-7eb7-4fbf-ae7c-b010daea53f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/case9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/rotate left right.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/data/红黑树.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/mysql.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/DataStructure.md" afterPath="$PROJECT_DIR$/docs/DataStructure.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/data/红黑树.md" afterPath="$PROJECT_DIR$/docs/data/红黑树.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,7 +15,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DataStructure.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DataStructure.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -46,12 +28,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="红黑树.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="红黑树.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/data/红黑树.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+              <first_editor relative-caret-position="375">
+                <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -159,8 +141,8 @@
         <option value="$PROJECT_DIR$/docs/data/排序.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/mysql.md" />
-        <option value="$PROJECT_DIR$/docs/data/红黑树.md" />
         <option value="$PROJECT_DIR$/docs/DataStructure.md" />
+        <option value="$PROJECT_DIR$/docs/data/红黑树.md" />
       </list>
     </option>
   </component>
@@ -690,7 +672,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545813169690</updated>
-      <workItem from="1545813171579" duration="63117000" />
+      <workItem from="1545813171579" duration="63242000" />
     </task>
     <task id="LOCAL-00001" summary="算法：时间空间复杂度">
       <created>1545822958255</created>
@@ -874,11 +856,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546055659046</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="添加红黑树操作">
+      <created>1546424079693</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1546424079694</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63117000" />
+    <option name="totallyTimeSpent" value="63242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -936,7 +925,8 @@
     <MESSAGE value="添加子目录" />
     <MESSAGE value="快排优化  排序完事啦" />
     <MESSAGE value="二叉查找树定义  不出意外这是2018年最后一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉查找树定义  不出意外这是2018年最后一次提交" />
+    <MESSAGE value="添加红黑树操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加红黑树操作" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1064,22 +1054,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/data/红黑树.md">
+    <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <first_editor relative-caret-position="335">
+            <caret line="297" column="11" lean-forward="true" selection-start-line="297" selection-start-column="11" selection-end-line="297" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
+    <entry file="file://$PROJECT_DIR$/docs/data/红黑树.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="335">
-            <caret line="297" column="11" lean-forward="true" selection-start-line="297" selection-start-column="11" selection-end-line="297" selection-end-column="11" />
+          <first_editor relative-caret-position="375">
+            <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
