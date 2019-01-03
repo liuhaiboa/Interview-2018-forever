@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7730622-7eb7-4fbf-ae7c-b010daea53f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/thread.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/java/java核心技术36讲.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/data/tree.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/data/红黑树.md" afterPath="$PROJECT_DIR$/docs/data/红黑树.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/DataStructure.md" afterPath="$PROJECT_DIR$/docs/DataStructure.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +20,21 @@
         <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <first_editor relative-caret-position="315">
+                <caret line="310" column="1" lean-forward="true" selection-start-line="310" selection-start-column="1" selection-end-line="310" selection-end-column="1" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tree.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/data/tree.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -35,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/docs/data/红黑树.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="185">
+              <first_editor relative-caret-position="270">
                 <caret line="18" column="75" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="75" />
                 <folding />
               </first_editor>
@@ -84,13 +95,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sort.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/pic/sort.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="链表.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/data/链表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -117,7 +121,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="java核心技术36讲.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="java核心技术36讲.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/java/java核心技术36讲.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -154,10 +158,11 @@
         <option value="$PROJECT_DIR$/docs/data/链表.md" />
         <option value="$PROJECT_DIR$/docs/data/排序.md" />
         <option value="$PROJECT_DIR$/docs/mysql.md" />
-        <option value="$PROJECT_DIR$/docs/DataStructure.md" />
         <option value="$PROJECT_DIR$/docs/data/红黑树.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/java/java核心技术36讲.md" />
+        <option value="$PROJECT_DIR$/docs/DataStructure.md" />
+        <option value="$PROJECT_DIR$/docs/data/tree.md" />
       </list>
     </option>
   </component>
@@ -223,24 +228,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interview-2018-forever" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interview-2018-forever" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -705,7 +692,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545813169690</updated>
-      <workItem from="1545813171579" duration="75204000" />
+      <workItem from="1545813171579" duration="76754000" />
     </task>
     <task id="LOCAL-00001" summary="算法：时间空间复杂度">
       <created>1545822958255</created>
@@ -924,11 +911,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546424902351</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="添加java面试知识点">
+      <created>1546501384439</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1546501384440</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75204000" />
+    <option name="totallyTimeSpent" value="76754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -988,7 +982,8 @@
     <MESSAGE value="二叉查找树定义  不出意外这是2018年最后一次提交" />
     <MESSAGE value="添加红黑树操作" />
     <MESSAGE value="调试图片路径" />
-    <option name="LAST_COMMIT_MESSAGE" value="调试图片路径" />
+    <MESSAGE value="添加java面试知识点" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加java面试知识点" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1105,17 +1100,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1127,10 +1111,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/java/java核心技术36讲.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="258">
+            <caret line="109" column="22" lean-forward="true" selection-start-line="109" selection-start-column="22" selection-end-line="109" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="310" column="1" lean-forward="true" selection-start-line="310" selection-start-column="1" selection-end-line="310" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/data/红黑树.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="185">
+          <first_editor relative-caret-position="270">
             <caret line="18" column="75" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="75" />
             <folding />
           </first_editor>
@@ -1138,11 +1144,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/java/java核心技术36讲.md">
+    <entry file="file://$PROJECT_DIR$/docs/data/tree.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="258">
-            <caret line="109" column="22" lean-forward="true" selection-start-line="109" selection-start-column="22" selection-end-line="109" selection-end-column="22" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             <folding />
           </first_editor>
           <second_editor />

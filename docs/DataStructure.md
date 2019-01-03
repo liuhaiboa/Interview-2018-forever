@@ -307,5 +307,7 @@ public class BinarySearchTree {
 1 [单链表的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/链表.md)
 
  
+### 树的操作
  
+1 [树的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/tree.md)
 
