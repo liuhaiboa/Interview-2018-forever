@@ -19,15 +19,15 @@
 
 ### 数组
  
-1 [数组操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/数组.md)
+ [数组操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/数组.md)
 
  
 ### 树的操作
  
-1 [树的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/tree.md)
+ [树的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/tree.md)
 
-#三、LeetCode
-1 [树的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/LeetCode.md)
+#三 LeetCode
+ [LeetCode题](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/LeetCode.md)
 
 
 # 二、极客时间学习笔记
