@@ -26,7 +26,7 @@
  
  [树的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/tree.md)
 
-#三 LeetCode
+# 三、LeetCode
  [LeetCode题](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/LeetCode.md)
 
 
