@@ -1,11 +1,36 @@
 # 数据结构和算法
 <!-- GFM-TOC -->
-* [一、极客时间学习笔记](#一极客时间学习笔记)
-* [二、面试宝典算法题](#二面试宝典算法题)
+* [一、面试宝典算法题](#一面试宝典算法题)
+* [二、极客时间学习笔记](#二极客时间学习笔记)
+* [三、LeetCode](#三LeetCode)
 
 <!-- GFM-TOC -->
 
-# 一、极客时间学习笔记
+# 一、面试宝典算法题
+### 第一部分 链表
+````
+链表结构:class Node{
+                 Node next =null;
+                 int data;
+                 public Node(int data){this.data=data;}
+}
+````
+1 [单链表的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/链表.md)
+
+### 数组
+ 
+1 [数组操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/数组.md)
+
+ 
+### 树的操作
+ 
+1 [树的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/tree.md)
+
+#三、LeetCode
+1 [树的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/LeetCode.md)
+
+
+# 二、极客时间学习笔记
 摘要：     极客时间版权所有: https://time.geekbang.org/column/article/40036
 10个数据结构：数组、链表、栈、队列、散列表、二叉树、堆、、跳表、图、Trie 树；
 10个算法：递归、排序、二分查找、搜索、哈希算法、贪心算法、分治算法、回溯算法、动态规划、字符串匹配算法。
@@ -294,20 +319,4 @@ public class BinarySearchTree {
 
    1 [红黑树保持平衡方式](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/红黑树.md)
 
-
-# 二、面试宝典算法题
-### 第一部分 链表
-````
-链表结构:class Node{
-                 Node next =null;
-                 int data;
-                 public Node(int data){this.data=data;}
-}
-````
-1 [单链表的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/链表.md)
-
- 
-### 树的操作
- 
-1 [树的操作](https://github.com/princesslhb/Interview-2018-forever/blob/master/docs/data/tree.md)
 

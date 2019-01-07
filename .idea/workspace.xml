@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7730622-7eb7-4fbf-ae7c-b010daea53f4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hello.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/data/LeetCode.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/data/数组.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/data/tree.md" afterPath="$PROJECT_DIR$/docs/data/tree.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/DataStructure.md" afterPath="$PROJECT_DIR$/docs/DataStructure.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/data/链表.md" afterPath="$PROJECT_DIR$/docs/data/链表.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,12 +19,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DataStructure.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DataStructure.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="310" column="1" lean-forward="true" selection-start-line="310" selection-start-column="1" selection-end-line="310" selection-end-column="1" />
+              <first_editor relative-caret-position="242">
+                <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -29,11 +32,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tree.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/data/LeetCode.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="数组.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/data/数组.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="224">
+                <caret line="294" column="0" lean-forward="true" selection-start-line="294" selection-start-column="0" selection-end-line="294" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tree.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/data/tree.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="191">
+              <first_editor relative-caret-position="1410">
                 <caret line="94" column="30" lean-forward="true" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
                 <folding />
               </first_editor>
@@ -81,26 +110,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bullenSort.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/pic/bullenSort.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="allsort.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/pic/allsort.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="链表.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/data/链表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2336">
-                <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <first_editor relative-caret-position="-2709">
+                <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -112,8 +127,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -155,14 +170,15 @@
         <option value="$PROJECT_DIR$/DataStructure.md" />
         <option value="$PROJECT_DIR$/docs/data/Node/node.md" />
         <option value="$PROJECT_DIR$/docs/data/com/node.java" />
-        <option value="$PROJECT_DIR$/docs/data/链表.md" />
         <option value="$PROJECT_DIR$/docs/data/排序.md" />
         <option value="$PROJECT_DIR$/docs/mysql.md" />
         <option value="$PROJECT_DIR$/docs/data/红黑树.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/java/java核心技术36讲.md" />
-        <option value="$PROJECT_DIR$/docs/DataStructure.md" />
         <option value="$PROJECT_DIR$/docs/data/tree.md" />
+        <option value="$PROJECT_DIR$/docs/data/链表.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/docs/data/数组.md" />
+        <option value="$PROJECT_DIR$/docs/DataStructure.md" />
       </list>
     </option>
   </component>
@@ -692,7 +708,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545813169690</updated>
-      <workItem from="1545813171579" duration="79630000" />
+      <workItem from="1545813171579" duration="95639000" />
     </task>
     <task id="LOCAL-00001" summary="算法：时间空间复杂度">
       <created>1545822958255</created>
@@ -932,11 +948,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546508154720</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="添加对二叉树操作的代码">
+      <created>1546512425801</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1546512425802</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79630000" />
+    <option name="totallyTimeSpent" value="95639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -998,7 +1021,8 @@
     <MESSAGE value="调试图片路径" />
     <MESSAGE value="添加java面试知识点" />
     <MESSAGE value="添加tree.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加tree.md" />
+    <MESSAGE value="添加对二叉树操作的代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加对二叉树操作的代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1104,44 +1128,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/data/链表.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2336">
-            <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/java/java核心技术36讲.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="258">
             <caret line="109" column="22" lean-forward="true" selection-start-line="109" selection-start-column="22" selection-end-line="109" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="310" column="1" lean-forward="true" selection-start-line="310" selection-start-column="1" selection-end-line="310" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1162,8 +1153,63 @@
     <entry file="file://$PROJECT_DIR$/docs/data/tree.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="191">
+          <first_editor relative-caret-position="1410">
             <caret line="94" column="30" lean-forward="true" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/data/链表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2709">
+            <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/data/数组.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="224">
+            <caret line="294" column="0" lean-forward="true" selection-start-line="294" selection-start-column="0" selection-end-line="294" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/data/LeetCode.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="242">
+            <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
             <folding />
           </first_editor>
           <second_editor />
