@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7730622-7eb7-4fbf-ae7c-b010daea53f4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/51e2ed95-65b8-4ae9-8af3-65602d452a25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/910f613f-514f-4534-87dd-9b4699d59d31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/f61b5419-c94a-4df1-8d4d-aed9ae8cc6d5.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/计算机网络.md" afterPath="$PROJECT_DIR$/docs/计算机网络.md" />
     </list>
@@ -123,8 +126,8 @@
         <entry file="file://$PROJECT_DIR$/docs/计算机网络.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="254">
-                <caret line="133" column="6" lean-forward="true" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
+              <first_editor relative-caret-position="141">
+                <caret line="177" column="26" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="177" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -279,6 +282,9 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/pic" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/docs/mysql" />
@@ -689,7 +695,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545813169690</updated>
-      <workItem from="1545813171579" duration="106854000" />
+      <workItem from="1545813171579" duration="108288000" />
     </task>
     <task id="LOCAL-00001" summary="算法：时间空间复杂度">
       <created>1545822958255</created>
@@ -964,11 +970,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546935061411</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="添加计网知识点">
+      <created>1546935416349</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1546935416349</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106854000" />
+    <option name="totallyTimeSpent" value="108288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1231,8 +1244,8 @@
     <entry file="file://$PROJECT_DIR$/docs/计算机网络.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="254">
-            <caret line="133" column="6" lean-forward="true" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
+          <first_editor relative-caret-position="141">
+            <caret line="177" column="26" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="177" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
