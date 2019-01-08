@@ -60,6 +60,112 @@ public class tree {
 }
 
 ````
+## 遍历二叉树
+````$xslt
+    //前序遍历递归的方式
+    public void preOrder(BinaryTreeNode root){
+        if(null!=root){
+            System.out.print(root.getData()+"\t");
+            preOrder(root.getLeft());
+            preOrder(root.getRight());
+        }
+    }
+    
+    //前序遍历非递归的方式
+    public void preOrderNonRecursive(BinaryTreeNode root){
+        Stack<BinaryTreeNode> stack=new Stack<BinaryTreeNode>();
+        while(true){
+            while(root!=null){
+                System.out.print(root.getData()+"\t");
+                stack.push(root);
+                root=root.getLeft();
+            }
+            if(stack.isEmpty()) break;
+            root=stack.pop();
+            root=root.getRight();
+        }
+    }
+    
+    //中序遍历采用递归的方式
+    public void inOrder(BinaryTreeNode root){
+        if(null!=root){
+            inOrder(root.getLeft());
+            System.out.print(root.getData()+"\t");
+            inOrder(root.getRight());
+        }
+    }
+    
+    //中序遍历采用非递归的方式
+    public void inOrderNonRecursive(BinaryTreeNode root){
+        Stack<BinaryTreeNode> stack=new Stack<BinaryTreeNode>();
+        while(true){
+            while(root!=null){
+                stack.push(root);
+                root=root.getLeft();
+            }
+            if(stack.isEmpty())break;
+            root=stack.pop();
+            System.out.print(root.getData()+"\t");
+            root=root.getRight();
+        }
+    }
+    
+    //后序遍历采用递归的方式
+    public void postOrder(BinaryTreeNode root){
+        if(root!=null){
+            postOrder(root.getLeft());
+            postOrder(root.getRight());
+            System.out.print(root.getData()+"\t");
+        }
+    }
+    
+    //后序遍历采用非递归的方式
+    public void postOrderNonRecursive(BinaryTreeNode root){
+        Stack<BinaryTreeNode> stack=new Stack<BinaryTreeNode>();
+        while(true){
+            if(root!=null){
+                stack.push(root);
+                root=root.getLeft();
+            }else{
+                if(stack.isEmpty()) return;
+                
+                if(null==stack.lastElement().getRight()){
+                    root=stack.pop();
+                    System.out.print(root.getData()+"\t");
+                    while(root==stack.lastElement().getRight()){
+                        System.out.print(stack.lastElement().getData()+"\t");
+                        root=stack.pop();
+                        if(stack.isEmpty()){
+                            break;
+                        }
+                    }
+                }
+                
+                if(!stack.isEmpty())
+                    root=stack.lastElement().getRight();
+                else
+                    root=null;
+            }
+        }
+    }
+
+    //层序遍历
+    public void levelOrder(BinaryTreeNode root){
+        BinaryTreeNode temp;
+        Queue<BinaryTreeNode> queue=new LinkedList<BinaryTreeNode>();
+        queue.offer(root);
+        while(!queue.isEmpty()){
+            temp=queue.poll();
+            System.out.print(temp.getData()+"\t");
+            if(null!=temp.getLeft()) 
+                queue.offer(temp.getLeft());
+            if(null!=temp.getRight()){
+                queue.offer(temp.getRight());
+            }
+        }
+    }
+    
+````
 ## 层次遍历二叉树
 使用队列可以层次遍历二叉树，思路：先将根节点放入队列，然后每次从队列取出一个节点打印该节点的值，若有子节点就将子节点放入队列尾，直到队列为空。
 ````$xslt
