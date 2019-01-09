@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7730622-7eb7-4fbf-ae7c-b010daea53f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/51e2ed95-65b8-4ae9-8af3-65602d452a25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/910f613f-514f-4534-87dd-9b4699d59d31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/f61b5419-c94a-4df1-8d4d-aed9ae8cc6d5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/pic/线程状态.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/线程.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/计算机网络.md" afterPath="$PROJECT_DIR$/docs/计算机网络.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,19 +81,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="排序.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/data/排序.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="464">
-                <caret line="104" column="34" lean-forward="true" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="34" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -122,13 +107,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="计算机网络.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="计算机网络.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/计算机网络.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="141">
-                <caret line="177" column="26" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="177" selection-end-column="26" />
+              <first_editor relative-caret-position="131">
+                <caret line="129" column="69" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="69" />
                 <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="线程.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/线程.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+                <folding>
+                  <marker date="1547030124000" expanded="true" signature="3057:3204" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="4301:4469" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="5127:5345" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="6358:6458" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="6403:6418" ph=" { " />
+                  <marker date="1547030124000" expanded="true" signature="6442:6452" ph=" }" />
+                  <marker date="1547030124000" expanded="true" signature="6495:6788" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="6532:6535" ph=" { " />
+                  <marker date="1547030124000" expanded="true" signature="6546:6547" ph=" }" />
+                  <marker date="1547030124000" expanded="true" signature="6592:6782" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="6813:6905" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="6946:7017" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="7374:7440" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="7479:7643" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="7684:7925" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="8462:8638" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="8664:8911" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="10593:10723" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="11648:12205" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="11745:12025" ph="{...}" />
+                  <marker date="1547030124000" expanded="true" signature="12070:12147" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -180,6 +200,7 @@
         <option value="$PROJECT_DIR$/docs/data/LeetCode.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/计算机网络.md" />
+        <option value="$PROJECT_DIR$/docs/线程.md" />
       </list>
     </option>
   </component>
@@ -695,7 +716,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545813169690</updated>
-      <workItem from="1545813171579" duration="108288000" />
+      <workItem from="1545813171579" duration="116136000" />
     </task>
     <task id="LOCAL-00001" summary="算法：时间空间复杂度">
       <created>1545822958255</created>
@@ -977,11 +998,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546935416349</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="添加计网知识点tcp">
+      <created>1546937907331</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1546937907331</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108288000" />
+    <option name="totallyTimeSpent" value="116136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1047,7 +1075,8 @@
     <MESSAGE value="添加数组部分和leetCode目录" />
     <MESSAGE value="添加leetCode目录" />
     <MESSAGE value="添加计网知识点" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加计网知识点" />
+    <MESSAGE value="添加计网知识点tcp" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加计网知识点tcp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1244,9 +1273,42 @@
     <entry file="file://$PROJECT_DIR$/docs/计算机网络.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="141">
-            <caret line="177" column="26" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="177" selection-end-column="26" />
+          <first_editor relative-caret-position="131">
+            <caret line="129" column="69" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="69" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/线程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <folding>
+              <marker date="1547030124000" expanded="true" signature="3057:3204" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="4301:4469" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="5127:5345" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="6358:6458" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="6403:6418" ph=" { " />
+              <marker date="1547030124000" expanded="true" signature="6442:6452" ph=" }" />
+              <marker date="1547030124000" expanded="true" signature="6495:6788" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="6532:6535" ph=" { " />
+              <marker date="1547030124000" expanded="true" signature="6546:6547" ph=" }" />
+              <marker date="1547030124000" expanded="true" signature="6592:6782" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="6813:6905" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="6946:7017" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="7374:7440" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="7479:7643" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="7684:7925" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="8462:8638" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="8664:8911" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="10593:10723" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="11648:12205" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="11745:12025" ph="{...}" />
+              <marker date="1547030124000" expanded="true" signature="12070:12147" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
