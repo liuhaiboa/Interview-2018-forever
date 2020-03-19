@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7730622-7eb7-4fbf-ae7c-b010daea53f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/code/LeetCode/num141ListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/code/LeetCode/num83ListNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/code/LeetCode/num203ListNode.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/haibo2019/target/" />
@@ -23,8 +22,18 @@
       <file leaf-file-name="num2ListNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num2ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="19" column="5" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="338">
+              <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="num203ListNode.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num203ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -45,12 +54,9 @@
       <file leaf-file-name="num21ListNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num21ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="16" column="5" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="416">
+              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="num141ListNode.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="num141ListNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num141ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            <state relative-caret-position="104">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="num160ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num160ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -81,32 +97,6 @@
             <state relative-caret-position="2860">
               <caret line="136" column="6" lean-forward="false" selection-start-line="136" selection-start-column="6" selection-end-line="136" selection-end-column="6" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="130">
-                <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataStructure.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/DataStructure.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2236">
-                <caret line="86" column="97" lean-forward="false" selection-start-line="86" selection-start-column="97" selection-end-line="86" selection-end-column="97" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -169,8 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/data/数组.md" />
-        <option value="$PROJECT_DIR$/docs/DataStructure.md" />
         <option value="$PROJECT_DIR$/docs/data/tree.md" />
         <option value="$PROJECT_DIR$/docs/data/LeetCode.md" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -220,6 +208,8 @@
         <option value="$PROJECT_DIR$/docs/code/LeetCode/num21ListNode.java" />
         <option value="$PROJECT_DIR$/docs/code/LeetCode/num83ListNode.java" />
         <option value="$PROJECT_DIR$/docs/code/LeetCode/num141ListNode.java" />
+        <option value="$PROJECT_DIR$/docs/code/LeetCode/num160ListNode.java" />
+        <option value="$PROJECT_DIR$/docs/code/LeetCode/num203ListNode.java" />
       </list>
     </option>
   </component>
@@ -251,10 +241,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="4" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="1898" />
+    <option name="y" value="21" />
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -703,7 +693,7 @@
       <workItem from="1583806039090" duration="33000" />
       <workItem from="1583842533072" duration="929000" />
       <workItem from="1583892112386" duration="5947000" />
-      <workItem from="1584324109154" duration="4357000" />
+      <workItem from="1584324109154" duration="8008000" />
     </task>
     <task id="LOCAL-00001" summary="算法：时间空间复杂度">
       <created>1545822958255</created>
@@ -1013,7 +1003,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584016935412</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="21">
+      <created>1584347530306</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1584347530307</updated>
+    </task>
+    <task id="LOCAL-00046" summary="160">
+      <created>1584348381832</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1584348381832</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1049,7 +1053,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173788000" />
+    <option name="totallyTimeSpent" value="177439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="4" width="1936" height="1056" extended-state="6" />
@@ -1091,7 +1095,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="链表完结" />
     <MESSAGE value="修改markdown格式" />
     <MESSAGE value="链表" />
     <MESSAGE value="修改markDown样式" />
@@ -1116,7 +1119,8 @@
     <MESSAGE value="添加计网知识点tcp" />
     <MESSAGE value="merge代码" />
     <MESSAGE value="21" />
-    <option name="LAST_COMMIT_MESSAGE" value="21" />
+    <MESSAGE value="160" />
+    <option name="LAST_COMMIT_MESSAGE" value="160" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1182,20 +1186,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/code/DesignPattern/Filter/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/code/DesignPattern/Filter/CriteriaFemale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/code/DesignPattern/Filter/OrCriteria.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -1512,14 +1502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num2ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/data/LeetCode.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1542,14 +1524,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num141ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num21ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="416">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1561,10 +1548,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num141ListNode.java">
+    <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num2ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        <state relative-caret-position="338">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num160ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/code/LeetCode/num203ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding />
         </state>
       </provider>
